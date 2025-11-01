@@ -1,2 +1,10 @@
 # TrackStar
 This is the repository for the TrackStar project. _TrackStar_ is an efficient way of creating and tracking SMART goals based on the seven pillars of wellness. _TrackStar_ also lets you set calendar reminders to set daily objectives to build and maintain consistency. In the near future, _TrackStar_ will have AI implementation, gamifying features, mobile alerts, and progress reports. 
+
+# Features
+- add/delete/update goals
+   * select one of seven pillars (e.g. social, emotional)
+- schedule time blocks on calendar
+   * select one of seven pillars and a subtask
+
+
